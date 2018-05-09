@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: 7b83e4053b54151408e5c6c325d42f7a
+timeCreated: 1521646251
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cube 2 1 a
+    100002: Cube 2 1 a 1
+    100004: Cube 2 1 a 2
+    100006: Cube 2 1 a 3
+    100008: Cube 2 1 a 4
+    100010: Cube 2 1 a 5
+    100012: Cube 2 1 a 6
+    100014: Cube 2 1 a 7
+    100016: Cube 2 and
+    100018: Cube 2 and 1
+    100020: Cube 2 and 10
+    100022: Cube 2 and 11
+    100024: Cube 2 and 12
+    100026: Cube 2 and 13
+    100028: Cube 2 and 14
+    100030: Cube 2 and 15
+    100032: Cube 2 and 16
+    100034: Cube 2 and 17
+    100036: Cube 2 and 2
+    100038: Cube 2 and 3
+    100040: Cube 2 and 4
+    100042: Cube 2 and 5
+    100044: Cube 2 and 6
+    100046: Cube 2 and 7
+    100048: Cube 2 and 8
+    100050: Cube 2 and 9
+    100052: Cube 4 1 a
+    100054: Cube 4 and
+    100056: Cube 4 and 1
+    100058: Cube 4 and 2
+    100060: Cube 4 and 3
+    100062: Cube 4 and 4
+    100064: Cube 4 and 5
+    100066: Cube 4 and 6
+    100068: Cylinder
+    100070: Cylinder 1
+    100072: Cylinder 1 1
+    100074: Cylinder 1 1 1
+    100076: Cylinder 2
+    100078: Cylinder 3
+    100080: Cylinder 3 1
+    100082: Cylinder 3 1 1
+    100084: Cylinder 3 10
+    100086: Cylinder 3 11
+    100088: Cylinder 3 12
+    100090: Cylinder 3 13
+    100092: Cylinder 3 14
+    100094: Cylinder 3 15
+    100096: Cylinder 3 16
+    100098: Cylinder 3 17
+    100100: Cylinder 3 18
+    100102: Cylinder 3 19
+    100104: Cylinder 3 2
+    100106: Cylinder 3 20
+    100108: Cylinder 3 21
+    100110: Cylinder 3 22
+    100112: Cylinder 3 23
+    100114: Cylinder 3 3
+    100116: Cylinder 3 4
+    100118: Cylinder 3 5
+    100120: Cylinder 3 6
+    100122: Cylinder 3 7
+    100124: Cylinder 3 8
+    100126: Cylinder 3 9
+    100128: Cylinder 4
+    100130: Cylinder 5
+    100132: Cylinder 5 1
+    100134: Cylinder 5 1 1
+    100136: Cylinder 5 2
+    100138: Cylinder 5 3
+    100140: Cylinder 6
+    100142: Cylinder 6 1
+    100144: Cylinder 6 1 1
+    100146: Cylinder 6 2
+    100148: Cylinder 6 3
+    100150: Cylinder 7
+    100152: Cylinder 7 1
+    100154: Cylinder 7 1 1
+    100156: Cylinder 7 10
+    100158: Cylinder 7 11
+    100160: Cylinder 7 2
+    100162: Cylinder 7 3
+    100164: Cylinder 7 4
+    100166: Cylinder 7 5
+    100168: Cylinder 7 6
+    100170: Cylinder 7 7
+    100172: Cylinder 7 8
+    100174: Cylinder 7 9
+    100176: Cylinder 8
+    100178: Cylinder a
+    100180: Cylinder a 1
+    100182: Cylinder a 10
+    100184: Cylinder a 11
+    100186: Cylinder a 12
+    100188: Cylinder a 13
+    100190: Cylinder a 14
+    100192: Cylinder a 15
+    100194: Cylinder a 2
+    100196: Cylinder a 3
+    100198: Cylinder a 4
+    100200: Cylinder a 5
+    100202: Cylinder a 6
+    100204: Cylinder a 7
+    100206: Cylinder a 8
+    100208: Cylinder a 9
+    100210: Sphere
+    100212: Sphere1
+    100214: Sphere10
+    100216: Sphere11
+    100218: Sphere12
+    100220: Sphere13
+    100222: Sphere14
+    100224: Sphere15
+    100226: Sphere16
+    100228: Sphere17
+    100230: Sphere18
+    100232: Sphere19
+    100234: Sphere2
+    100236: Sphere20
+    100238: Sphere21
+    100240: Sphere22
+    100242: Sphere23
+    100244: Sphere24
+    100246: Sphere25
+    100248: Sphere26
+    100250: Sphere27
+    100252: Sphere28
+    100254: Sphere29
+    100256: Sphere3
+    100258: Sphere30
+    100260: Sphere31
+    100262: Sphere32
+    100264: Sphere33
+    100266: Sphere34
+    100268: Sphere35
+    100270: Sphere36
+    100272: Sphere4
+    100274: Sphere5
+    100276: Sphere6
+    100278: Sphere7
+    100280: Sphere8
+    100282: Sphere9
+    100284: Spline Obj
+    100286: Spline Obj 1
+    100288: Spline Obj 10
+    100290: Spline Obj 11
+    100292: Spline Obj 12
+    100294: Spline Obj 13
+    100296: Spline Obj 14
+    100298: Spline Obj 15
+    100300: Spline Obj 16
+    100302: Spline Obj 17
+    100304: Spline Obj 18
+    100306: Spline Obj 19
+    100308: Spline Obj 2
+    100310: Spline Obj 20
+    100312: Spline Obj 21
+    100314: Spline Obj 22
+    100316: Spline Obj 23
+    100318: Spline Obj 24
+    100320: Spline Obj 25
+    100322: Spline Obj 26
+    100324: Spline Obj 27
+    100326: Spline Obj 28
+    100328: Spline Obj 29
+    100330: Spline Obj 3
+    100332: Spline Obj 30
+    100334: Spline Obj 31
+    100336: Spline Obj 32
+    100338: Spline Obj 33
+    100340: Spline Obj 34
+    100342: Spline Obj 35
+    100344: Spline Obj 36
+    100346: Spline Obj 37
+    100348: Spline Obj 38
+    100350: Spline Obj 39
+    100352: Spline Obj 4
+    100354: Spline Obj 40
+    100356: Spline Obj 41
+    100358: Spline Obj 42
+    100360: Spline Obj 5
+    100362: Spline Obj 6
+    100364: Spline Obj 7
+    100366: Spline Obj 8
+    100368: Spline Obj 9
+    100370: //RootNode
+    400000: Cube 2 1 a
+    400002: Cube 2 1 a 1
+    400004: Cube 2 1 a 2
+    400006: Cube 2 1 a 3
+    400008: Cube 2 1 a 4
+    400010: Cube 2 1 a 5
+    400012: Cube 2 1 a 6
+    400014: Cube 2 1 a 7
+    400016: Cube 2 and
+    400018: Cube 2 and 1
+    400020: Cube 2 and 10
+    400022: Cube 2 and 11
+    400024: Cube 2 and 12
+    400026: Cube 2 and 13
+    400028: Cube 2 and 14
+    400030: Cube 2 and 15
+    400032: Cube 2 and 16
+    400034: Cube 2 and 17
+    400036: Cube 2 and 2
+    400038: Cube 2 and 3
+    400040: Cube 2 and 4
+    400042: Cube 2 and 5
+    400044: Cube 2 and 6
+    400046: Cube 2 and 7
+    400048: Cube 2 and 8
+    400050: Cube 2 and 9
+    400052: Cube 4 1 a
+    400054: Cube 4 and
+    400056: Cube 4 and 1
+    400058: Cube 4 and 2
+    400060: Cube 4 and 3
+    400062: Cube 4 and 4
+    400064: Cube 4 and 5
+    400066: Cube 4 and 6
+    400068: Cylinder
+    400070: Cylinder 1
+    400072: Cylinder 1 1
+    400074: Cylinder 1 1 1
+    400076: Cylinder 2
+    400078: Cylinder 3
+    400080: Cylinder 3 1
+    400082: Cylinder 3 1 1
+    400084: Cylinder 3 10
+    400086: Cylinder 3 11
+    400088: Cylinder 3 12
+    400090: Cylinder 3 13
+    400092: Cylinder 3 14
+    400094: Cylinder 3 15
+    400096: Cylinder 3 16
+    400098: Cylinder 3 17
+    400100: Cylinder 3 18
+    400102: Cylinder 3 19
+    400104: Cylinder 3 2
+    400106: Cylinder 3 20
+    400108: Cylinder 3 21
+    400110: Cylinder 3 22
+    400112: Cylinder 3 23
+    400114: Cylinder 3 3
+    400116: Cylinder 3 4
+    400118: Cylinder 3 5
+    400120: Cylinder 3 6
+    400122: Cylinder 3 7
+    400124: Cylinder 3 8
+    400126: Cylinder 3 9
+    400128: Cylinder 4
+    400130: Cylinder 5
+    400132: Cylinder 5 1
+    400134: Cylinder 5 1 1
+    400136: Cylinder 5 2
+    400138: Cylinder 5 3
+    400140: Cylinder 6
+    400142: Cylinder 6 1
+    400144: Cylinder 6 1 1
+    400146: Cylinder 6 2
+    400148: Cylinder 6 3
+    400150: Cylinder 7
+    400152: Cylinder 7 1
+    400154: Cylinder 7 1 1
+    400156: Cylinder 7 10
+    400158: Cylinder 7 11
+    400160: Cylinder 7 2
+    400162: Cylinder 7 3
+    400164: Cylinder 7 4
+    400166: Cylinder 7 5
+    400168: Cylinder 7 6
+    400170: Cylinder 7 7
+    400172: Cylinder 7 8
+    400174: Cylinder 7 9
+    400176: Cylinder 8
+    400178: Cylinder a
+    400180: Cylinder a 1
+    400182: Cylinder a 10
+    400184: Cylinder a 11
+    400186: Cylinder a 12
+    400188: Cylinder a 13
+    400190: Cylinder a 14
+    400192: Cylinder a 15
+    400194: Cylinder a 2
+    400196: Cylinder a 3
+    400198: Cylinder a 4
+    400200: Cylinder a 5
+    400202: Cylinder a 6
+    400204: Cylinder a 7
+    400206: Cylinder a 8
+    400208: Cylinder a 9
+    400210: Sphere
+    400212: Sphere1
+    400214: Sphere10
+    400216: Sphere11
+    400218: Sphere12
+    400220: Sphere13
+    400222: Sphere14
+    400224: Sphere15
+    400226: Sphere16
+    400228: Sphere17
+    400230: Sphere18
+    400232: Sphere19
+    400234: Sphere2
+    400236: Sphere20
+    400238: Sphere21
+    400240: Sphere22
+    400242: Sphere23
+    400244: Sphere24
+    400246: Sphere25
+    400248: Sphere26
+    400250: Sphere27
+    400252: Sphere28
+    400254: Sphere29
+    400256: Sphere3
+    400258: Sphere30
+    400260: Sphere31
+    400262: Sphere32
+    400264: Sphere33
+    400266: Sphere34
+    400268: Sphere35
+    400270: Sphere36
+    400272: Sphere4
+    400274: Sphere5
+    400276: Sphere6
+    400278: Sphere7
+    400280: Sphere8
+    400282: Sphere9
+    400284: Spline Obj
+    400286: Spline Obj 1
+    400288: Spline Obj 10
+    400290: Spline Obj 11
+    400292: Spline Obj 12
+    400294: Spline Obj 13
+    400296: Spline Obj 14
+    400298: Spline Obj 15
+    400300: Spline Obj 16
+    400302: Spline Obj 17
+    400304: Spline Obj 18
+    400306: Spline Obj 19
+    400308: Spline Obj 2
+    400310: Spline Obj 20
+    400312: Spline Obj 21
+    400314: Spline Obj 22
+    400316: Spline Obj 23
+    400318: Spline Obj 24
+    400320: Spline Obj 25
+    400322: Spline Obj 26
+    400324: Spline Obj 27
+    400326: Spline Obj 28
+    400328: Spline Obj 29
+    400330: Spline Obj 3
+    400332: Spline Obj 30
+    400334: Spline Obj 31
+    400336: Spline Obj 32
+    400338: Spline Obj 33
+    400340: Spline Obj 34
+    400342: Spline Obj 35
+    400344: Spline Obj 36
+    400346: Spline Obj 37
+    400348: Spline Obj 38
+    400350: Spline Obj 39
+    400352: Spline Obj 4
+    400354: Spline Obj 40
+    400356: Spline Obj 41
+    400358: Spline Obj 42
+    400360: Spline Obj 5
+    400362: Spline Obj 6
+    400364: Spline Obj 7
+    400366: Spline Obj 8
+    400368: Spline Obj 9
+    400370: //RootNode
+    2100000: Sphere
+    2100002: Spline Obj
+    2300000: Cube 2 1 a
+    2300002: Cube 2 1 a 1
+    2300004: Cube 2 1 a 2
+    2300006: Cube 2 1 a 3
+    2300008: Cube 2 1 a 4
+    2300010: Cube 2 1 a 5
+    2300012: Cube 2 1 a 6
+    2300014: Cube 2 1 a 7
+    2300016: Cube 2 and
+    2300018: Cube 2 and 1
+    2300020: Cube 2 and 10
+    2300022: Cube 2 and 11
+    2300024: Cube 2 and 12
+    2300026: Cube 2 and 13
+    2300028: Cube 2 and 14
+    2300030: Cube 2 and 15
+    2300032: Cube 2 and 16
+    2300034: Cube 2 and 17
+    2300036: Cube 2 and 2
+    2300038: Cube 2 and 3
+    2300040: Cube 2 and 4
+    2300042: Cube 2 and 5
+    2300044: Cube 2 and 6
+    2300046: Cube 2 and 7
+    2300048: Cube 2 and 8
+    2300050: Cube 2 and 9
+    2300052: Cube 4 1 a
+    2300054: Cube 4 and
+    2300056: Cube 4 and 1
+    2300058: Cube 4 and 2
+    2300060: Cube 4 and 3
+    2300062: Cube 4 and 4
+    2300064: Cube 4 and 5
+    2300066: Cube 4 and 6
+    2300068: Cylinder
+    2300070: Cylinder 1
+    2300072: Cylinder 1 1
+    2300074: Cylinder 1 1 1
+    2300076: Cylinder 2
+    2300078: Cylinder 3
+    2300080: Cylinder 3 1
+    2300082: Cylinder 3 1 1
+    2300084: Cylinder 3 10
+    2300086: Cylinder 3 11
+    2300088: Cylinder 3 12
+    2300090: Cylinder 3 13
+    2300092: Cylinder 3 14
+    2300094: Cylinder 3 15
+    2300096: Cylinder 3 16
+    2300098: Cylinder 3 17
+    2300100: Cylinder 3 18
+    2300102: Cylinder 3 19
+    2300104: Cylinder 3 2
+    2300106: Cylinder 3 20
+    2300108: Cylinder 3 21
+    2300110: Cylinder 3 22
+    2300112: Cylinder 3 23
+    2300114: Cylinder 3 3
+    2300116: Cylinder 3 4
+    2300118: Cylinder 3 5
+    2300120: Cylinder 3 6
+    2300122: Cylinder 3 7
+    2300124: Cylinder 3 8
+    2300126: Cylinder 3 9
+    2300128: Cylinder 4
+    2300130: Cylinder 5
+    2300132: Cylinder 5 1
+    2300134: Cylinder 5 1 1
+    2300136: Cylinder 5 2
+    2300138: Cylinder 5 3
+    2300140: Cylinder 6
+    2300142: Cylinder 6 1
+    2300144: Cylinder 6 1 1
+    2300146: Cylinder 6 2
+    2300148: Cylinder 6 3
+    2300150: Cylinder 7
+    2300152: Cylinder 7 1
+    2300154: Cylinder 7 1 1
+    2300156: Cylinder 7 10
+    2300158: Cylinder 7 11
+    2300160: Cylinder 7 2
+    2300162: Cylinder 7 3
+    2300164: Cylinder 7 4
+    2300166: Cylinder 7 5
+    2300168: Cylinder 7 6
+    2300170: Cylinder 7 7
+    2300172: Cylinder 7 8
+    2300174: Cylinder 7 9
+    2300176: Cylinder 8
+    2300178: Cylinder a
+    2300180: Cylinder a 1
+    2300182: Cylinder a 10
+    2300184: Cylinder a 11
+    2300186: Cylinder a 12
+    2300188: Cylinder a 13
+    2300190: Cylinder a 14
+    2300192: Cylinder a 15
+    2300194: Cylinder a 2
+    2300196: Cylinder a 3
+    2300198: Cylinder a 4
+    2300200: Cylinder a 5
+    2300202: Cylinder a 6
+    2300204: Cylinder a 7
+    2300206: Cylinder a 8
+    2300208: Cylinder a 9
+    2300210: Sphere
+    2300212: Sphere1
+    2300214: Sphere10
+    2300216: Sphere11
+    2300218: Sphere12
+    2300220: Sphere13
+    2300222: Sphere14
+    2300224: Sphere15
+    2300226: Sphere16
+    2300228: Sphere17
+    2300230: Sphere18
+    2300232: Sphere19
+    2300234: Sphere2
+    2300236: Sphere20
+    2300238: Sphere21
+    2300240: Sphere22
+    2300242: Sphere23
+    2300244: Sphere24
+    2300246: Sphere25
+    2300248: Sphere26
+    2300250: Sphere27
+    2300252: Sphere28
+    2300254: Sphere29
+    2300256: Sphere3
+    2300258: Sphere30
+    2300260: Sphere31
+    2300262: Sphere32
+    2300264: Sphere33
+    2300266: Sphere34
+    2300268: Sphere35
+    2300270: Sphere36
+    2300272: Sphere4
+    2300274: Sphere5
+    2300276: Sphere6
+    2300278: Sphere7
+    2300280: Sphere8
+    2300282: Sphere9
+    2300284: Spline Obj
+    2300286: Spline Obj 1
+    2300288: Spline Obj 10
+    2300290: Spline Obj 11
+    2300292: Spline Obj 12
+    2300294: Spline Obj 13
+    2300296: Spline Obj 14
+    2300298: Spline Obj 15
+    2300300: Spline Obj 16
+    2300302: Spline Obj 17
+    2300304: Spline Obj 18
+    2300306: Spline Obj 19
+    2300308: Spline Obj 2
+    2300310: Spline Obj 20
+    2300312: Spline Obj 21
+    2300314: Spline Obj 22
+    2300316: Spline Obj 23
+    2300318: Spline Obj 24
+    2300320: Spline Obj 25
+    2300322: Spline Obj 26
+    2300324: Spline Obj 27
+    2300326: Spline Obj 28
+    2300328: Spline Obj 29
+    2300330: Spline Obj 3
+    2300332: Spline Obj 30
+    2300334: Spline Obj 31
+    2300336: Spline Obj 32
+    2300338: Spline Obj 33
+    2300340: Spline Obj 34
+    2300342: Spline Obj 35
+    2300344: Spline Obj 36
+    2300346: Spline Obj 37
+    2300348: Spline Obj 38
+    2300350: Spline Obj 39
+    2300352: Spline Obj 4
+    2300354: Spline Obj 40
+    2300356: Spline Obj 41
+    2300358: Spline Obj 42
+    2300360: Spline Obj 5
+    2300362: Spline Obj 6
+    2300364: Spline Obj 7
+    2300366: Spline Obj 8
+    2300368: Spline Obj 9
+    3300000: Cube 2 1 a
+    3300002: Cube 2 1 a 1
+    3300004: Cube 2 1 a 2
+    3300006: Cube 2 1 a 3
+    3300008: Cube 2 1 a 4
+    3300010: Cube 2 1 a 5
+    3300012: Cube 2 1 a 6
+    3300014: Cube 2 1 a 7
+    3300016: Cube 2 and
+    3300018: Cube 2 and 1
+    3300020: Cube 2 and 10
+    3300022: Cube 2 and 11
+    3300024: Cube 2 and 12
+    3300026: Cube 2 and 13
+    3300028: Cube 2 and 14
+    3300030: Cube 2 and 15
+    3300032: Cube 2 and 16
+    3300034: Cube 2 and 17
+    3300036: Cube 2 and 2
+    3300038: Cube 2 and 3
+    3300040: Cube 2 and 4
+    3300042: Cube 2 and 5
+    3300044: Cube 2 and 6
+    3300046: Cube 2 and 7
+    3300048: Cube 2 and 8
+    3300050: Cube 2 and 9
+    3300052: Cube 4 1 a
+    3300054: Cube 4 and
+    3300056: Cube 4 and 1
+    3300058: Cube 4 and 2
+    3300060: Cube 4 and 3
+    3300062: Cube 4 and 4
+    3300064: Cube 4 and 5
+    3300066: Cube 4 and 6
+    3300068: Cylinder
+    3300070: Cylinder 1
+    3300072: Cylinder 1 1
+    3300074: Cylinder 1 1 1
+    3300076: Cylinder 2
+    3300078: Cylinder 3
+    3300080: Cylinder 3 1
+    3300082: Cylinder 3 1 1
+    3300084: Cylinder 3 10
+    3300086: Cylinder 3 11
+    3300088: Cylinder 3 12
+    3300090: Cylinder 3 13
+    3300092: Cylinder 3 14
+    3300094: Cylinder 3 15
+    3300096: Cylinder 3 16
+    3300098: Cylinder 3 17
+    3300100: Cylinder 3 18
+    3300102: Cylinder 3 19
+    3300104: Cylinder 3 2
+    3300106: Cylinder 3 20
+    3300108: Cylinder 3 21
+    3300110: Cylinder 3 22
+    3300112: Cylinder 3 23
+    3300114: Cylinder 3 3
+    3300116: Cylinder 3 4
+    3300118: Cylinder 3 5
+    3300120: Cylinder 3 6
+    3300122: Cylinder 3 7
+    3300124: Cylinder 3 8
+    3300126: Cylinder 3 9
+    3300128: Cylinder 4
+    3300130: Cylinder 5
+    3300132: Cylinder 5 1
+    3300134: Cylinder 5 1 1
+    3300136: Cylinder 5 2
+    3300138: Cylinder 5 3
+    3300140: Cylinder 6
+    3300142: Cylinder 6 1
+    3300144: Cylinder 6 1 1
+    3300146: Cylinder 6 2
+    3300148: Cylinder 6 3
+    3300150: Cylinder 7
+    3300152: Cylinder 7 1
+    3300154: Cylinder 7 1 1
+    3300156: Cylinder 7 10
+    3300158: Cylinder 7 11
+    3300160: Cylinder 7 2
+    3300162: Cylinder 7 3
+    3300164: Cylinder 7 4
+    3300166: Cylinder 7 5
+    3300168: Cylinder 7 6
+    3300170: Cylinder 7 7
+    3300172: Cylinder 7 8
+    3300174: Cylinder 7 9
+    3300176: Cylinder 8
+    3300178: Cylinder a
+    3300180: Cylinder a 1
+    3300182: Cylinder a 10
+    3300184: Cylinder a 11
+    3300186: Cylinder a 12
+    3300188: Cylinder a 13
+    3300190: Cylinder a 14
+    3300192: Cylinder a 15
+    3300194: Cylinder a 2
+    3300196: Cylinder a 3
+    3300198: Cylinder a 4
+    3300200: Cylinder a 5
+    3300202: Cylinder a 6
+    3300204: Cylinder a 7
+    3300206: Cylinder a 8
+    3300208: Cylinder a 9
+    3300210: Sphere
+    3300212: Sphere1
+    3300214: Sphere10
+    3300216: Sphere11
+    3300218: Sphere12
+    3300220: Sphere13
+    3300222: Sphere14
+    3300224: Sphere15
+    3300226: Sphere16
+    3300228: Sphere17
+    3300230: Sphere18
+    3300232: Sphere19
+    3300234: Sphere2
+    3300236: Sphere20
+    3300238: Sphere21
+    3300240: Sphere22
+    3300242: Sphere23
+    3300244: Sphere24
+    3300246: Sphere25
+    3300248: Sphere26
+    3300250: Sphere27
+    3300252: Sphere28
+    3300254: Sphere29
+    3300256: Sphere3
+    3300258: Sphere30
+    3300260: Sphere31
+    3300262: Sphere32
+    3300264: Sphere33
+    3300266: Sphere34
+    3300268: Sphere35
+    3300270: Sphere36
+    3300272: Sphere4
+    3300274: Sphere5
+    3300276: Sphere6
+    3300278: Sphere7
+    3300280: Sphere8
+    3300282: Sphere9
+    3300284: Spline Obj
+    3300286: Spline Obj 1
+    3300288: Spline Obj 10
+    3300290: Spline Obj 11
+    3300292: Spline Obj 12
+    3300294: Spline Obj 13
+    3300296: Spline Obj 14
+    3300298: Spline Obj 15
+    3300300: Spline Obj 16
+    3300302: Spline Obj 17
+    3300304: Spline Obj 18
+    3300306: Spline Obj 19
+    3300308: Spline Obj 2
+    3300310: Spline Obj 20
+    3300312: Spline Obj 21
+    3300314: Spline Obj 22
+    3300316: Spline Obj 23
+    3300318: Spline Obj 24
+    3300320: Spline Obj 25
+    3300322: Spline Obj 26
+    3300324: Spline Obj 27
+    3300326: Spline Obj 28
+    3300328: Spline Obj 29
+    3300330: Spline Obj 3
+    3300332: Spline Obj 30
+    3300334: Spline Obj 31
+    3300336: Spline Obj 32
+    3300338: Spline Obj 33
+    3300340: Spline Obj 34
+    3300342: Spline Obj 35
+    3300344: Spline Obj 36
+    3300346: Spline Obj 37
+    3300348: Spline Obj 38
+    3300350: Spline Obj 39
+    3300352: Spline Obj 4
+    3300354: Spline Obj 40
+    3300356: Spline Obj 41
+    3300358: Spline Obj 42
+    3300360: Spline Obj 5
+    3300362: Spline Obj 6
+    3300364: Spline Obj 7
+    3300366: Spline Obj 8
+    3300368: Spline Obj 9
+    4300000: Sphere
+    4300002: Spline Obj
+    4300004: Spline Obj
+    4300006: Spline Obj
+    4300008: Spline Obj
+    4300010: Spline Obj
+    4300012: Spline Obj
+    4300014: Cube 2 and
+    4300016: Cylinder 1
+    4300018: Cylinder 1
+    4300020: Cylinder a
+    4300022: Cube 2 and
+    4300024: Cylinder a
+    4300026: Cylinder a
+    4300028: Cylinder a
+    4300030: Spline Obj
+    4300032: Spline Obj
+    4300034: Spline Obj
+    4300036: Cylinder a
+    4300038: Cylinder a
+    4300040: Cylinder a
+    4300042: Spline Obj
+    4300044: Spline Obj
+    4300046: Spline Obj
+    4300048: Cylinder a
+    4300050: Cylinder a
+    4300052: Cylinder a
+    4300054: Spline Obj
+    4300056: Spline Obj
+    4300058: Spline Obj
+    4300060: Cylinder a
+    4300062: Cylinder a
+    4300064: Cylinder a
+    4300066: Spline Obj
+    4300068: Spline Obj
+    4300070: Spline Obj
+    4300072: Spline Obj
+    4300074: Spline Obj
+    4300076: Spline Obj
+    4300078: Spline Obj
+    4300080: Spline Obj
+    4300082: Spline Obj
+    4300084: Spline Obj
+    4300086: Spline Obj
+    4300088: Cylinder
+    4300090: Spline Obj
+    4300092: Sphere1
+    4300094: Spline Obj
+    4300096: Cylinder
+    4300098: Cylinder a
+    4300100: Cylinder a
+    4300102: Cylinder a
+    4300104: Spline Obj
+    4300106: Spline Obj
+    4300108: Sphere2
+    4300110: Sphere3
+    4300112: Spline Obj
+    4300114: Spline Obj
+    4300116: Cylinder
+    4300118: Cylinder
+    4300120: Cylinder
+    4300122: Cylinder 3
+    4300124: Cylinder 3
+    4300126: Cylinder 3
+    4300128: Cylinder 3
+    4300130: Cylinder 3
+    4300132: Cylinder 3
+    4300134: Cylinder 3
+    4300136: Cylinder 3
+    4300138: Cylinder 3
+    4300140: Cylinder 3
+    4300142: Cylinder 3
+    4300144: Cylinder 3
+    4300146: Cylinder
+    4300148: Cylinder
+    4300150: Cylinder
+    4300152: Cylinder 3
+    4300154: Cylinder 3
+    4300156: Cylinder 3
+    4300158: Cylinder 3
+    4300160: Cylinder 3
+    4300162: Cylinder 3
+    4300164: Cylinder 3
+    4300166: Cylinder 3
+    4300168: Cylinder 3
+    4300170: Cylinder 3
+    4300172: Cylinder 3
+    4300174: Cylinder 3
+    4300176: Cylinder 5
+    4300178: Cylinder 5
+    4300180: Cylinder 5
+    4300182: Cylinder 5
+    4300184: Spline Obj
+    4300186: Spline Obj
+    4300188: Spline Obj
+    4300190: Cylinder 6
+    4300192: Cylinder 6
+    4300194: Spline Obj
+    4300196: Cylinder 6
+    4300198: Cylinder 6
+    4300200: Spline Obj
+    4300202: Sphere4
+    4300204: Cube 4 and
+    4300206: Cube 4 and
+    4300208: Cube 4 and
+    4300210: Cube 4 and
+    4300212: Cylinder 7
+    4300214: Cylinder 7
+    4300216: Cylinder 7
+    4300218: Spline Obj
+    4300220: Cylinder 7
+    4300222: Cylinder 7
+    4300224: Cylinder 7
+    4300226: Sphere5
+    4300228: Sphere6
+    4300230: Sphere7
+    4300232: Sphere8
+    4300234: Sphere9
+    4300236: Sphere10
+    4300238: Sphere11
+    4300240: Sphere12
+    4300242: Sphere13
+    4300244: Sphere14
+    4300246: Spline Obj
+    4300248: Sphere15
+    4300250: Cylinder 7
+    4300252: Cylinder 7
+    4300254: Spline Obj
+    4300256: Cylinder 7
+    4300258: Sphere16
+    4300260: Sphere17
+    4300262: Sphere18
+    4300264: Sphere19
+    4300266: Sphere20
+    4300268: Sphere21
+    4300270: Sphere22
+    4300272: Sphere23
+    4300274: Sphere24
+    4300276: Sphere25
+    4300278: Spline Obj
+    4300280: Sphere26
+    4300282: Cylinder 7
+    4300284: Cylinder 7
+    4300286: Spline Obj
+    4300288: Cylinder 7
+    4300290: Sphere27
+    4300292: Sphere28
+    4300294: Sphere29
+    4300296: Sphere30
+    4300298: Sphere31
+    4300300: Sphere32
+    4300302: Sphere33
+    4300304: Sphere34
+    4300306: Sphere35
+    4300308: Sphere36
+    4300310: Spline Obj
+    4300312: Cube 2 and
+    4300314: Cube 2 and
+    4300316: Cube 2 1 a
+    4300318: Cube 2 and
+    4300320: Cube 2 and
+    4300322: Cube 2 1 a
+    4300324: Cube 2 and
+    4300326: Cube 2 and
+    4300328: Cube 2 1 a
+    4300330: Cube 2 and
+    4300332: Cube 2 and
+    4300334: Cube 2 1 a
+    4300336: Cube 2 and
+    4300338: Cube 2 and
+    4300340: Cube 2 1 a
+    4300342: Cube 2 and
+    4300344: Cube 2 and
+    4300346: Cube 2 1 a
+    4300348: Cube 2 and
+    4300350: Cube 2 and
+    4300352: Cube 2 1 a
+    4300354: Cube 2 and
+    4300356: Cube 2 and
+    4300358: Cube 2 1 a
+    4300360: Cylinder 8
+    4300362: Cube 4 and
+    4300364: Cube 4 and
+    4300366: Cube 4 and
+    4300368: Cube 4 1 a
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
