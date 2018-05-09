@@ -14,7 +14,7 @@ public class SpaceJetParticle : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		ps.startLifetime = 4 * Environment.Atmosphere;
-		ps.startSize = .0001f * rb.velocity.magnitude;
+		//ps.startLifetime = 4 * Environment.Atmosphere;
+		//ps.startSize = .0001f * rb.velocity.magnitude;
 	}
 }

@@ -1,9 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LockOn.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpaceJetParticle.cs">
     <Files>
-      <File FileName="Assets\LockOn.cs" Line="95" Column="55" />
-      <File FileName="Assets\TargetPodHandler.cs" Line="86" Column="13" />
+      <File FileName="Assets\LockOn.cs" Line="1" Column="1" />
+      <File FileName="Assets\TargetPodHandler.cs" Line="1" Column="1" />
       <File FileName="Assets\ViewPortCameraHandler.cs" Line="1" Column="1" />
       <File FileName="Assets\ATTRIBUTIONS.txt" Line="1" Column="1" />
       <File FileName="Assets\AircraftGun.cs" Line="1" Column="1" />
@@ -16,7 +16,9 @@
       <File FileName="Assets\AudioIndicator.cs" Line="1" Column="1" />
       <File FileName="Assets\DockingClamp.cs" Line="1" Column="1" />
       <File FileName="Assets\DockingDisplay.cs" Line="1" Column="1" />
-      <File FileName="Assets\SetMeshMaterials.cs" Line="30" Column="2" />
+      <File FileName="Assets\SetMeshMaterials.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpaceJetParticle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Aerodynamics\RCSThruster.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

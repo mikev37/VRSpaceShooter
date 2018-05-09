@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: ad642cc5c62278f4caa220c21d916cc2
+timeCreated: 1525636988
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: Hull
+    100004: landingFrontBack
+    100006: LandingFrontBottom
+    100008: LandingFrontCover
+    100010: LandingFrontMain
+    100012: LandingLeftBack
+    100014: landingLeftBottom
+    100016: LandingLeftCover
+    100018: LandingLeftMain
+    100020: landingRightBack
+    100022: LandingRightBottom
+    100024: LandingRightCove
+    100026: LandingRightMain
+    100028: reacto2
+    100030: reactor1
+    100032: reactor3
+    100034: reactorcore
+    100036: reactorsheild
+    100038: //RootNode
+    400000: cockpit
+    400002: Hull
+    400004: landingFrontBack
+    400006: LandingFrontBottom
+    400008: LandingFrontCover
+    400010: LandingFrontMain
+    400012: LandingLeftBack
+    400014: landingLeftBottom
+    400016: LandingLeftCover
+    400018: LandingLeftMain
+    400020: landingRightBack
+    400022: LandingRightBottom
+    400024: LandingRightCove
+    400026: LandingRightMain
+    400028: reacto2
+    400030: reactor1
+    400032: reactor3
+    400034: reactorcore
+    400036: reactorsheild
+    400038: //RootNode
+    2100000: Cube_and_S
+    2100002: Spline_Obj
+    2300000: cockpit
+    2300002: Hull
+    2300004: landingFrontBack
+    2300006: LandingFrontBottom
+    2300008: LandingFrontCover
+    2300010: LandingFrontMain
+    2300012: LandingLeftBack
+    2300014: landingLeftBottom
+    2300016: LandingLeftCover
+    2300018: LandingLeftMain
+    2300020: landingRightBack
+    2300022: LandingRightBottom
+    2300024: LandingRightCove
+    2300026: LandingRightMain
+    2300028: reacto2
+    2300030: reactor1
+    2300032: reactor3
+    2300034: reactorcore
+    2300036: reactorsheild
+    3300000: cockpit
+    3300002: Hull
+    3300004: landingFrontBack
+    3300006: LandingFrontBottom
+    3300008: LandingFrontCover
+    3300010: LandingFrontMain
+    3300012: LandingLeftBack
+    3300014: landingLeftBottom
+    3300016: LandingLeftCover
+    3300018: LandingLeftMain
+    3300020: landingRightBack
+    3300022: LandingRightBottom
+    3300024: LandingRightCove
+    3300026: LandingRightMain
+    3300028: reacto2
+    3300030: reactor1
+    3300032: reactor3
+    3300034: reactorcore
+    3300036: reactorsheild
+    4300000: LandingRightCove
+    4300002: LandingLeftCover
+    4300004: LandingFrontCover
+    4300006: Hull
+    4300008: LandingFrontBottom
+    4300010: LandingFrontMain
+    4300012: landingFrontBack
+    4300014: LandingRightBottom
+    4300016: landingRightBack
+    4300018: LandingRightMain
+    4300020: landingLeftBottom
+    4300022: LandingLeftMain
+    4300024: LandingLeftBack
+    4300026: reactorsheild
+    4300028: reactor3
+    4300030: reactorcore
+    4300032: reacto2
+    4300034: reactor1
+    4300036: cockpit
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
